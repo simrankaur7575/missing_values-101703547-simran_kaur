@@ -1,1 +1,1 @@
-This package is for removing missing values from the dataset.
+This package is for handling missing values from the dataset.
